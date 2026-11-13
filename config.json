@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "mandatory_checks": {
+      "requires_documents": true
+    },
+    "threshold_checks": {
+      "min_income": 300000
+    },
+    "conditional_branching": {
+      "manual_review_age": 60
+    }
+  }
+}
